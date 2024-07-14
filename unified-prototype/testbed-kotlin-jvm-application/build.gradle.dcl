@@ -1,5 +1,5 @@
 kotlinJvmApplication {
-    javaVersion = 21
+    javaVersion = 17
     mainClass = "com.example.AppKt"
 
     dependencies {

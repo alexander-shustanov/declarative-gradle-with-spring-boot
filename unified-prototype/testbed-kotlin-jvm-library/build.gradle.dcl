@@ -1,5 +1,5 @@
 kotlinJvmLibrary {
-    javaVersion = 21
+    javaVersion = 17
 
     dependencies {
         implementation(project(":kotlin-jvm-util"))

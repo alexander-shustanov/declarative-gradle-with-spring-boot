@@ -1,5 +1,5 @@
 javaLibrary {
-    javaVersion = 21
+    javaVersion = 17
 
     dependencies {
         implementation(project(":java-util"))

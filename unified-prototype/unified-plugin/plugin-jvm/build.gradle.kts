@@ -7,6 +7,7 @@ description = "Implements the declarative JVM DSL prototype"
 
 dependencies {
     implementation(project(":plugin-common"))
+    implementation("org.springframework.boot:spring-boot-gradle-plugin:3.3.1")
     implementation("org.gradle.toolchains:foojay-resolver:0.8.0")
 }
 

@@ -1,3 +1,3 @@
 kotlinJvmLibrary {
-    javaVersion = 21
+    javaVersion = 17
 }
